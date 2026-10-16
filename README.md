@@ -1,6 +1,6 @@
 # Network Framework
 
-🤖 **Built by the makers of [Agent!](https://github.com/AgentiLoop/Agent)**, an autonomous macOS agent.
+🤖 **Built by the makers of [Agent!](https://github.com/AgentiLoop/Agent)**, an autonomous macOS agent. 🌐 [agentiloop.ai](https://agentiloop.ai)
 
  Peer to Peer using Network Framework macOS
 
